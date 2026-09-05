@@ -88,7 +88,7 @@ https://github.com/laclaupau
 
 URL de Vercel:
 
-portfolio-pfo1-seven.vercel.app
+https://portfolio-pfo1-seven.vercel.app
 
 ## Autoría
 
